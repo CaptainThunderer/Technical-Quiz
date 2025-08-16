@@ -1,8 +1,8 @@
-# 🧠 Technical Quiz (Python CLI App)
+#  Technical Quiz
 
 This is a beginner-friendly **Python Command Line Quiz App** that tests your basic technical knowledge in computing, programming, and networking.
 
-## 🚀 Features
+##  Features
 
 - 10 technical questions
 - Interactive command-line interface
@@ -10,15 +10,8 @@ This is a beginner-friendly **Python Command Line Quiz App** that tests your bas
 - Instant feedback on each question
 - Score display at the end
 
-## 🛠️ Technologies Used
+## 🛠 Technologies Used
 
 - Python 3.x
-
-## 🖥️ How to Run
-
-1. Make sure you have Python installed.
-2. Clone the repository or download the `quiz.py` file.
-3. Open your terminal and run:
-
 ```bash
 python quiz.py
